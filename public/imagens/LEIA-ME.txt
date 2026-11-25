@@ -1,0 +1,3 @@
+Coloque aqui a foto autorizada da equipe com o nome "equipe.jpg".
+Ela aparece na página inicial do portal e na apresentação do projeto.
+Sem a foto, o site mostra uma ilustração no lugar.
