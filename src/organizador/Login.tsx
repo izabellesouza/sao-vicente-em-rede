@@ -48,7 +48,7 @@ export default function Login() {
           <h1>Do planejamento ao impacto, tudo em um só lugar.</h1>
           <p>Campanhas mais organizadas para que o cuidado chegue ainda mais longe.</p>
         </div>
-        <small>Organizador interno • Desenvolvido por Thiago</small>
+        <small>Organizador interno • Desenvolvido por Thiago Fernandes</small>
       </section>
 
       <main className="login__form" id="conteudo">
